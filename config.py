@@ -1,8 +1,3 @@
-# @ImJanindu
-# @Infinity_Bots
-
-import os
-
 """
 If you using VPS, first fork repo, remove upper strings and edit like this:
 
